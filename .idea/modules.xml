@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\jinhu\Desktop\tinker-sample-android\app\app.iml" filepath="C:\Users\jinhu\Desktop\tinker-sample-android\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/tinker-sample-android.iml" filepath="$PROJECT_DIR$/tinker-sample-android.iml" />
+      <module fileurl="file://C:\Users\jinhu\Desktop\tinker-sample-android\tinker-sample-android.iml" filepath="C:\Users\jinhu\Desktop\tinker-sample-android\tinker-sample-android.iml" />
     </modules>
   </component>
 </project>
